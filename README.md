@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-5D8C3E?style=for-the-badge&logo=minecraft&logoColor=white"/>
   <img src="https://img.shields.io/badge/WORLD-SRM__IST-866043?style=for-the-badge&logo=minecraft&logoColor=white"/>
-  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&style=for-the-badge&color=5D8C3E&label=PLAYERS+JOINED"/>
+  <img src="https://komarev.com/ghpvc/?username=mahajan2255&style=for-the-badge&color=5D8C3E&label=PLAYERS+JOINED"/>
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 ## ⛏️ PLAYER STATS
 
-```ini
+\```ini
 [Player: Parv Mahajan]
 Class        = AI & Machine Learning Engineer
 World        = SRM IST, Ghaziabad (B.Tech CSE — AI & ML)
@@ -31,7 +31,7 @@ Current Quest= AI-powered School Management System @ FC Segment AI
 Side Quest   = Prompt-based AI Website Builder
 Guild        = FC Segment AI (Hybrid)
 Achievements = 96% accuracy clinical ML platform, 88% ship detection CNN
-```
+\```
 
 ## 🧰 CRAFTING TABLE — TECH STACK
 
@@ -84,22 +84,22 @@ Achievements = 96% accuracy clinical ML platform, 88% ship detection CNN
 ## 📊 SERVER STATS (GitHub Analytics)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&hide_border=true&bg_color=1D1D1D&title_color=5D8C3E&icon_color=866043&text_color=E8E8E8" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&hide_border=true&bg_color=1D1D1D&title_color=5D8C3E&text_color=E8E8E8" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mahajan2255&show_icons=true&hide_border=true&bg_color=1D1D1D&title_color=5D8C3E&icon_color=866043&text_color=E8E8E8" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahajan2255&layout=compact&hide_border=true&bg_color=1D1D1D&title_color=5D8C3E&text_color=E8E8E8" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&hide_border=true&background=1D1D1D&stroke=5D8C3E&ring=866043&fire=E8E8E8&currStreakLabel=5D8C3E"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahajan2255&hide_border=true&background=1D1D1D&stroke=5D8C3E&ring=866043&fire=E8E8E8&currStreakLabel=5D8C3E"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&bg_color=1D1D1D&color=E8E8E8&line=5D8C3E&point=866043&hide_border=true&area=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahajan2255&bg_color=1D1D1D&color=E8E8E8&line=5D8C3E&point=866043&hide_border=true&area=true"/>
 </p>
 
 ## 🎮 XP TROPHIES
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=dracula&no-frame=true&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mahajan2255&theme=dracula&no-frame=true&row=1&column=7"/>
 </p>
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-Github/main/grass-block.gif" width="100%" height="3"/>
@@ -107,7 +107,7 @@ Achievements = 96% accuracy clinical ML platform, 88% ship detection CNN
 ## 🐍 MOB SPAWN (Contribution Graph)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/mahajan2255/mahajan2255/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B3B3B,50:866043,100:5D8C3E&height=120&section=footer"/>
