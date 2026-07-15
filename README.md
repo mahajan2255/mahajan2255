@@ -22,7 +22,7 @@
 
 ## ⛏️ PLAYER STATS
 
-\```ini
+```ini
 [Player: Parv Mahajan]
 Class        = AI & Machine Learning Engineer
 World        = SRM IST, Ghaziabad (B.Tech CSE — AI & ML)
@@ -31,7 +31,7 @@ Current Quest= AI-powered School Management System @ FC Segment AI
 Side Quest   = Prompt-based AI Website Builder
 Guild        = FC Segment AI (Hybrid)
 Achievements = 96% accuracy clinical ML platform, 88% ship detection CNN
-\```
+```
 
 ## 🧰 CRAFTING TABLE — TECH STACK
 
@@ -84,12 +84,12 @@ Achievements = 96% accuracy clinical ML platform, 88% ship detection CNN
 ## 📊 SERVER STATS (GitHub Analytics)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahajan2255&show_icons=true&hide_border=true&bg_color=1D1D1D&title_color=5D8C3E&icon_color=866043&text_color=E8E8E8" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahajan2255&layout=compact&hide_border=true&bg_color=1D1D1D&title_color=5D8C3E&text_color=E8E8E8" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=mahajan2255&show_icons=true&hide_border=true&bg_color=1D1D1D&title_color=5D8C3E&icon_color=866043&text_color=E8E8E8" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mahajan2255&layout=compact&hide_border=true&bg_color=1D1D1D&title_color=5D8C3E&text_color=E8E8E8" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahajan2255&hide_border=true&background=1D1D1D&stroke=5D8C3E&ring=866043&fire=E8E8E8&currStreakLabel=5D8C3E"/>
+  <img src="https://streak-stats.demolab.com/?user=mahajan2255&hide_border=true&background=1D1D1D&stroke=5D8C3E&ring=866043&fire=E8E8E8&currStreakLabel=5D8C3E"/>
 </p>
 
 <p align="center">
